@@ -1,2 +1,2 @@
 # recommend-me
-Recommends tracks based on user input tracks and track parameters.
+Recommends Spotify tracks based on user input tracks and track parameters (such as popularity).
