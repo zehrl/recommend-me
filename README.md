@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create React Express App
 
 ## About This Boilerplate
@@ -27,3 +28,7 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 ## Deployment (Heroku)
 
 To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+=======
+# recommend-me
+Recommends Spotify tracks based on user input tracks and track parameters (such as popularity).
+>>>>>>> 332f411e20c707c93a4eac71ac925f80cc73b2b3
